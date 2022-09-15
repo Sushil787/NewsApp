@@ -49,7 +49,7 @@ Widget customListTile(Article article, BuildContext context) {
                     Container(
                       padding: EdgeInsets.all(6.0),
                       decoration: BoxDecoration(
-                        color: Colors.red,
+                        color: Colors.green,
                         borderRadius: BorderRadius.circular(30.0),
                       ),
                       child: Text(
